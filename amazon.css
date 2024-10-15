@@ -40,7 +40,6 @@ body{
 .border:hover{
     border: 1.4px solid white;
 }
-/* box2 */
 .first{
     color:#cccccc;
     font-size: 0.85rem;
@@ -55,7 +54,6 @@ body{
     align-items: center;
     margin-top: -32px;
 }
-/* box3 */
 .nav-search{
     display: flex;
     width: 620px;
@@ -81,7 +79,6 @@ option{
 .search-input{
     width: 85%;
     font-size: 1.02rem;
-    /* border: none; */
 }
 .search-icon{
     width: 45px;
@@ -94,7 +91,6 @@ option{
     border-bottom-right-radius: 4px;
     color: rgb(0, 0, 0);
 }
-/* box4 */
 span{
     font-size: .7rem;
 }
@@ -102,10 +98,7 @@ span{
     font-size: .85rem;
     font-weight: 700;
     margin-top:-14px ;
-    /* position: relative;
-    top: -5px; */
 }
-/* box6 */
 .nav-cart{
     font-size: 30px;
     margin-top: 20px;
@@ -114,8 +107,6 @@ span{
     font-size: 14px;
     font-weight: 700;
     margin-top: -5px;
-    /* transform: rotate(360 deg); */
-    
 }
 .panel{
     height:48px;
@@ -146,7 +137,6 @@ span{
 }
 .hero-msg{
     background-color: rgb(255, 248, 248);
-    /* max-width: (1200px,100vw); */
     color: rgb(208, 255, 255);
     height: 44px;
     width:75%;
@@ -176,7 +166,6 @@ h2{
 .box{
     height: 400px;
     background-color: white;
-    /* border: 2px solid black; */
     width: 23%;
    text-align: center;
     margin-top: 15px;
@@ -208,7 +197,6 @@ h2{
     background-color: #141b22;
     display:flex;
     gap: 15px;
-    /* position: relative; */
     color: white;
     padding: 0px 100px;
 
@@ -221,7 +209,6 @@ h3{
 .log{
     position: relative;
     top: 28px;
-    /* border: 2px solid black; */
     height: 300px;
     width: 400px;
 }
@@ -239,14 +226,12 @@ p{
     margin-top: -118px;
 }
 .logo-footer{
-    /* border: 2px solid black; */
     margin-left:45% ;
     width: 9%;
     height: 75px;
 }
 .logo-boss{
     height: 75px;
-    /* width: %; */
     background-image: url("../l42/pics/amazon_logo.png");
     background-size: cover;
 }
@@ -266,7 +251,5 @@ p{
 .line{
     color:black;
     font-weight: 700;
-    /* width: 700px; */
-
 }
 
